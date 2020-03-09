@@ -1,0 +1,20 @@
+{
+  "name": "sites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "analyze": "npx wca --outFile README.md --format md",
+    "start": "python -m SimpleHTTPServer"
+  },
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "web-component-analyzer": "^1.0.3"
+  }
+}
