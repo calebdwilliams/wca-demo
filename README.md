@@ -6,6 +6,6 @@ To re-generate this file, run `npm run analyze`. The desired behavior is that th
 
 ## Properties
 
-| Property   | Type       | Default |
-|------------|------------|---------|
-| `greeting` | `Greeting` | ""      |
+| Property   | Attribute  | Type       | Default | Description          |
+|------------|------------|------------|---------|----------------------|
+| `greeting` | `greeting` | `Greeting` | ""      | Who should we greet? |

@@ -13,6 +13,6 @@
     "types": [],
     "esModuleInterop": true
   },
-  "include": ["script.js", "typings"],
+  "include": ["script.js", "typings/Greeting.ts"],
   "exclude": []
 }
